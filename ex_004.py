@@ -1,3 +1,4 @@
+# parâmetros que retornam True ou False
 user_input = input("Digite algo: ") # Objeto
 print("O tipo primitivvo desse valor é ", type(user_input))
 print("Só tem espaços? ", user_input.isspace())
